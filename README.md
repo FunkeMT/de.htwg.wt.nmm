@@ -1,3 +1,5 @@
+[![BCH compliance](https://bettercodehub.com/edge/badge/FunkeMT/de.htwg.wt.nmm?branch=master)](https://bettercodehub.com/)
+
 # HTWG | Web Technologies | Nine Men's Morris
 
 - [Prezi Presentation](#prezi-presentation)
